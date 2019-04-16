@@ -65,7 +65,7 @@ print "I'v got a decoratorB: " + decoratorB.operation()
 '''
 
 
-# 下面 我们以辛巴克咖啡 为例
+# 下面 我们以星巴克咖啡 为例
 # 原味拿铁 加糖 2元， 加奶3元，升杯3元
 
 @six.add_metaclass(abc.ABCMeta)
